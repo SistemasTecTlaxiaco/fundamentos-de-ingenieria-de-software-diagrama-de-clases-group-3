@@ -1,12 +1,14 @@
 # Entrega · Práctica 9
 
 <!--
-Plantilla de entrega. Llenen cada sección con la información de su módulo.
-- No cambien los títulos: el robot los usa para encontrar cada parte.
+Plantilla de entrega (opcional). Pueden llenar este archivo o entregar su propio documento.
+- Formato libre: PDF, Word (.docx) o Markdown, con el nombre que quieran, dentro de entrega/.
+  Si entregan PDF o Word, pueden borrar este archivo; el robot revisa el documento más completo.
+- Pueden cambiar los títulos y el orden. El robot reconoce títulos parecidos a los de la
+  rúbrica y, si no los encuentra, busca la evidencia en todo el documento.
 - Todo lo que está entre estos símbolos de comentario NO cuenta como contenido.
-- Si prefieren entregar en PDF, exporten este mismo documento como entrega/practica-9.pdf
-  y borren este archivo .md (el robot revisa el .md si existen los dos).
-- El repositorio es público: no escriban teléfonos, correos ni CURP. Usen el cargo o rol.
+- El repositorio es público: nada de teléfonos, correos, CURP ni firmas. A las personas de
+  la organización, por su cargo, rol o apodo.
 -->
 
 **Equipo:**
